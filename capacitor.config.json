@@ -1,0 +1,8 @@
+{
+  "appId": "PhotoGallery1",
+  "appName": "React Photo Gallery",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
